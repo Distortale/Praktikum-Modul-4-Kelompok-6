@@ -1,0 +1,13 @@
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\bin\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.exe
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\bin\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.deps.json
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\bin\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.runtimeconfig.json
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\bin\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.runtimeconfig.dev.json
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\bin\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.dll
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\bin\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.pdb
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.csprojAssemblyReference.cache
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.csproj.CoreCompileInputs.cache
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.AssemblyInfoInputs.cache
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.AssemblyInfo.cs
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.dll
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.pdb
+C:\Computer Engineeing\Praktikum DKP\Modul4_Kelompok6\Modul4_Kelompok6_CSharp\Modul4_Kelompok6_CSharp\obj\Debug\netcoreapp3.1\Modul4_Kelompok6_CSharp.genruntimeconfig.cache
